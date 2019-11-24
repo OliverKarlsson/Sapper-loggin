@@ -3,6 +3,7 @@
 ### The security features aren't finished nor penetration tested
 ### Serverside features were developed test-driven
 >Run **npm run cy:open** to open cypress and choose a set of test to run 
+
 >Run **npm run cy:run** to run all test without opening up any grafics, this will take som time
 # sapper-template
 
